@@ -1,0 +1,4 @@
+{
+    "command": "npm install && npx tsc --noEmit && npm test -- --ci",
+    "working_directory": "/home/kavia/workspace/code-generation/ott-live-tv-platform-7245-7254/frontend_ott_live_tv"
+}
